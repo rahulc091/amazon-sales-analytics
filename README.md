@@ -1,21 +1,21 @@
-#Amazon Sales Business Analytics Project
+# Amazon Sales Business Analytics Project
 
-Overview
+## Overview
 
 This project analyzes Amazon's sales performance, product and category performance, customer purchasing behavior, payment methods, seller revenue, and monthly revenue trends using SQL.
 
-Tools Used
+## Tools Used
 
 - PostgreSQL
 - Excel
 - Power BI
 
-Dataset
+## Dataset
 
 - 100,000 records
 - 100,000 unique orders
 
-Business Questions
+## Business Questions
 
 - Overall sales performance and Average Order Value (AOV)
 - Top-selling products by quantity
@@ -32,7 +32,7 @@ Business Questions
 - Top 10% of customers by spending and revenue contribution
 - New vs. returning customer revenue analysis
 
-Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - SQL Queries
 - Aggregate Functions
@@ -45,9 +45,9 @@ Key Skills Demonstrated
 - Business Analysis
 - Data Interpretation
 
-Files
+## Files
 
-- "Amazon_Sales_Analytics_Report.pdf"
-- "amazon_sales.sql"
-- "amazon_sales.csv"
-- Power BI Dashboard (if included in the repository)
+- "amazon_sales_business_analytics_PDF.pdf"
+- "amazon_sales_final.sql"
+- "Amazon.csv"
+- "amazon_sales_PowerBI_dashboard"
